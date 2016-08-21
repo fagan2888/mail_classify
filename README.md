@@ -1,2 +1,17 @@
-# mail_classify
-for smart folder
+# mail text classification
+
+## doc feature
+
+* BoW + TF-IDF
+
+* doc2vector TODO
+
+## doc classification
+
+### unsupervised
+
+* LDA
+
+### supervised
+
+TODO
