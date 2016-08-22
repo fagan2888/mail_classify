@@ -15,3 +15,7 @@
 ### supervised
 
 TODO
+
+## Run
+
+python3 gen_lda.py
