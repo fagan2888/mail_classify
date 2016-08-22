@@ -18,4 +18,6 @@ TODO
 
 ## Run
 
-python3 gen_lda.py
+pip3 install gensim jieba
+
+python3 gen_lda_model.py
